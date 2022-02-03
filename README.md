@@ -19,5 +19,5 @@
     
 </div>
 
-<small>Powered by Debian GNU/Linux</small>
+<small style="font-size: 15px">Powered by Debian GNU/Linux</small>
 <img alt="debian logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
