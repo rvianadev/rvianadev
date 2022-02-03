@@ -24,5 +24,5 @@
   <a href="https://www.linkedin.com/in/rodrigo-v-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 </div>
-
+<br><br><br>
 <img alt="debian logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /><small style="font-size: 15px">Powered by Debian GNU/Linux</small>
