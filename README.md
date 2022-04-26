@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
-- 🔭 Dev frontend jr (under construction).
+- 🔭 Dev frontend (under construction).
 - 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, ReactJS.
 - 👯 I'm looking to collaborate on projects which help me to growing as professional.
 
