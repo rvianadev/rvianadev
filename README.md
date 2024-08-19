@@ -1,7 +1,7 @@
 ### Hello, world! 👋
 
 - 🔭 Dev frontend.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, ReactJS and NodeJS
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS and NodeJS
 - 👯 I'm looking to collaborate on projects which help me to growing as professional.
 
 <div align="center">
