@@ -4,11 +4,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS and NodeJS
 - 👯 I'm looking to collaborate on projects which help me to growing as professional.
 
-<div align="center">
-  <a href="https://github.com/rvianadev">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rvianadev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rvianadev&layout=compact&langs_count=7&theme=react"/>
-</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="rviana-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
